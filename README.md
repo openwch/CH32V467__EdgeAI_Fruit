@@ -1,0 +1,2 @@
+# CH32V467__EdgeAI_Fruit
+RISC-V MCU CH32V467__EdgeAI_Fruit
