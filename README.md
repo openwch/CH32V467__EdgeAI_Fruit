@@ -1,2 +1,1 @@
-CH32V467
 CH32V467_EdgeAI_Fruit Recognition Reference Project.
