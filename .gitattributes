@@ -1,0 +1,9 @@
+CH32V407_TFLM_EXAM filter=lfs diff=lfs merge=lfs -text
+CH32V467_EdgeAI_friut.7z filter=lfs diff=lfs merge=lfs -text
+CH32V467_Edge_AI_Challenge_Announcement_v1.0.docx filter=lfs diff=lfs merge=lfs -text
+CH32V467_Edge_AI_Innovation_Challenge_CN_v2.docx filter=lfs diff=lfs merge=lfs -text
+YT[[:space:]]script.docx filter=lfs diff=lfs merge=lfs -text
+CH32V467_Edge_AI_Challenge_Announcement(4)(2).docx filter=lfs diff=lfs merge=lfs -text
+CH32V467_Edge_AI_Challenge_Announcement.docx filter=lfs diff=lfs merge=lfs -text
+CH32V467_Open_Edge_AI_Challenge_Announcement_CN.docx filter=lfs diff=lfs merge=lfs -text
+CH32V467端侧AI挑战赛-Design[[:space:]]Edge,[[:space:]]Unleash[[:space:]]AI.docx filter=lfs diff=lfs merge=lfs -text
